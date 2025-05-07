@@ -10,3 +10,4 @@
 ![pe](https://github.com/user-attachments/assets/910baf16-8396-4b72-93c6-030df9ba0fd2)
 ![pogre](https://github.com/user-attachments/assets/e92624a5-8459-4196-b39d-bbcaa2f8222d)
 ![st](https://github.com/user-attachments/assets/db19c513-ffb0-4b5f-bb53-12510962213e)
+![azure](https://github.com/user-attachments/assets/1786d7f5-8bd1-4b98-9b10-f10e52c594be)
